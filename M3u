@@ -1,99 +1,117 @@
-
-#EXTINF:-1 tvg-name=”RO |  1 Music Channel” tvg-logo=””,RO |  1 Music Channel
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13321.ts
-#EXTINF:-1 tvg-name=”RO |  Acasa Gold” tvg-logo=””,RO |  Acasa Gold
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13320.ts
-#EXTINF:-1 tvg-name=”RO |  Agro TV” tvg-logo=””,RO |  Agro TV
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13319.ts
-#EXTINF:-1 tvg-name=”RO |  Antena 1″ tvg-logo=””,RO |  Antena 1
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13318.ts
-#EXTINF:-1 tvg-name=”RO |  Antena 3″ tvg-logo=””,RO |  Antena 3
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13317.ts
-#EXTINF:-1 tvg-name=”RO |  Antena Stars” tvg-logo=””,RO |  Antena Stars
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13316.ts
-#EXTINF:-1 tvg-name=”RO |  Cinemax 2″ tvg-logo=””,RO |  Cinemax 2
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13315.ts
-#EXTINF:-1 tvg-name=”RO |  Cinemax Ro” tvg-logo=””,RO |  Cinemax Ro
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13314.ts
-#EXTINF:-1 tvg-name=”RO |  Digi 24″ tvg-logo=””,RO |  Digi 24
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13313.ts
-#EXTINF:-1 tvg-name=”RO |  Digi Animal World” tvg-logo=””,RO |  Digi Animal World
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13312.ts
-#EXTINF:-1 tvg-name=”RO |  Digi Film” tvg-logo=””,RO |  Digi Film
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13311.ts
-#EXTINF:-1 tvg-name=”RO |  Digi Life” tvg-logo=””,RO |  Digi Life
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13310.ts
-#EXTINF:-1 tvg-name=”RO |  Digi Sport 1″ tvg-logo=””,RO |  Digi Sport 1
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13309.ts
-#EXTINF:-1 tvg-name=”RO |  Digi Sport 2″ tvg-logo=””,RO |  Digi Sport 2
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13308.ts
-#EXTINF:-1 tvg-name=”RO |  Digi Sport 3″ tvg-logo=””,RO |  Digi Sport 3
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13307.ts
-#EXTINF:-1 tvg-name=”RO |  Digi Sport 4″ tvg-logo=””,RO |  Digi Sport 4
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13306.ts
-#EXTINF:-1 tvg-name=”RO |  Digi World” tvg-logo=””,RO |  Digi World
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13305.ts
-#EXTINF:-1 tvg-name=”RO |  Disney Junior” tvg-logo=””,RO |  Disney Junior
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13304.ts
-#EXTINF:-1 tvg-name=”RO |  Dolce Sport 1″ tvg-logo=””,RO |  Dolce Sport 1
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13303.ts
-#EXTINF:-1 tvg-name=”RO |  Dolce Sport 2″ tvg-logo=””,RO |  Dolce Sport 2
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13302.ts
-#EXTINF:-1 tvg-name=”RO |  Dolce Sport 3″ tvg-logo=””,RO |  Dolce Sport 3
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13301.ts
-#EXTINF:-1 tvg-name=”RO |  Eurosport 1″ tvg-logo=””,RO |  Eurosport 1
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13300.ts
-#EXTINF:-1 tvg-name=”RO |  Eurosport 2″ tvg-logo=””,RO |  Eurosport 2
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13299.ts
-#EXTINF:-1 tvg-name=”RO |  Fishing & Hunting” tvg-logo=””,RO |  Fishing & Hunting
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13298.ts
-#EXTINF:-1 tvg-name=”RO |  Happy Channel” tvg-logo=””,RO |  Happy Channel
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13297.ts
-#EXTINF:-1 tvg-name=”RO |  HBO 2″ tvg-logo=””,RO |  HBO 2
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13296.ts
-#EXTINF:-1 tvg-name=”RO |  HBO 3″ tvg-logo=””,RO |  HBO 3
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13295.ts
-#EXTINF:-1 tvg-name=”RO |  HBO Romania” tvg-logo=””,RO |  HBO Romania
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13294.ts
-#EXTINF:-1 tvg-name=”RO |  History Channel” tvg-logo=””,RO |  History Channel
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13293.ts
-#EXTINF:-1 tvg-name=”RO |  KanalD” tvg-logo=””,RO |  KanalD
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13292.ts
-#EXTINF:-1 tvg-name=”RO |  Look Plus” tvg-logo=””,RO |  Look Plus
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13291.ts
-#EXTINF:-1 tvg-name=”RO |  Look Tv” tvg-logo=””,RO |  Look Tv
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13290.ts
-#EXTINF:-1 tvg-name=”RO |  Megamax” tvg-logo=””,RO |  Megamax
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13289.ts
-#EXTINF:-1 tvg-name=”RO |  Minimax” tvg-logo=””,RO |  Minimax
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13288.ts
-#EXTINF:-1 tvg-name=”RO |  National Geographic” tvg-logo=””,RO |  National Geographic
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13287.ts
-#EXTINF:-1 tvg-name=”RO |  National Tv” tvg-logo=””,RO |  National Tv
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13286.ts
-#EXTINF:-1 tvg-name=”RO |  Neptun Tv” tvg-logo=””,RO |  Neptun Tv
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13285.ts
-#EXTINF:-1 tvg-name=”RO |  Paramount Channel” tvg-logo=””,RO |  Paramount Channel
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13284.ts
-#EXTINF:-1 tvg-name=”RO |  Prima Tv” tvg-logo=””,RO |  Prima Tv
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13283.ts
-#EXTINF:-1 tvg-name=”RO |  ProCinema” tvg-logo=””,RO |  ProCinema
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13282.ts
-#EXTINF:-1 tvg-name=”RO |  ProTV” tvg-logo=””,RO |  ProTV
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13281.ts
-#EXTINF:-1 tvg-name=”RO |  Realitatea Tv” tvg-logo=””,RO |  Realitatea Tv
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13280.ts
-#EXTINF:-1 tvg-name=”RO |  Romania Tv” tvg-logo=””,RO |  Romania Tv
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13279.ts
-#EXTINF:-1 tvg-name=”RO |  Taraf Tv” tvg-logo=””,RO |  Taraf Tv
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13278.ts
-#EXTINF:-1 tvg-name=”RO |  Trinitas” tvg-logo=””,RO |  Trinitas
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13277.ts
-#EXTINF:-1 tvg-name=”RO |  TV1000″ tvg-logo=””,RO |  TV1000
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13276.ts
-#EXTINF:-1 tvg-name=”RO |  TVR 1″ tvg-logo=””,RO |  TVR 1
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13274.ts
-#EXTINF:-1 tvg-name=”RO |  TVR 2″ tvg-logo=””,RO |  TVR 2
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13273.ts
-#EXTINF:-1 tvg-name=”RO |  U TV” tvg-logo=””,RO |  U TV
- http://abczu.xyz:25461/live/SAMIR/SAMIR/13272.ts
+#EXTM3U
+#EXTINF:-1,KANAL D HD
+http://89.45.201.132:2222/udp/224.0.0.3:123
+#EXTINF:-1,Kanal D
+http://89.45.201.132:2222/udp/224.0.0.3:113
+#EXTINF:-1,Prima TV
+http://89.45.201.132:2222/udp/224.0.0.3:116
+#EXTINF:-1,COMEDY CENTRAL
+http://89.45.201.132:2222/udp/224.0.0.3:512
+#EXTINF:-1,Antena 1
+http://89.45.201.132:2222/udp/224.0.0.3:104
+#EXTINF:-1,Antena Stars
+http://89.45.201.132:2222/udp/224.0.0.3:105
+#EXTINF:-1,Antena 3
+http://89.45.201.132:2222/udp/224.0.0.3:106
+#EXTINF:-1,Pro TV
+http://89.45.201.132:2222/udp/224.0.0.3:107
+#EXTINF:-1,Pro TV HD
+http://89.45.201.132:2222/udp/224.0.0.3:119
+#EXTINF:-1,Pro Cinema
+http://89.45.201.132:2222/udp/224.0.0.3:504
+#EXTINF:-1,PRO X HD
+http://89.45.201.132:2222/udp/224.0.0.3:122
+#EXTINF:-1,PRO X
+http://89.45.201.132:2222/udp/224.0.0.3:202
+#EXTINF:-1,PRO 2 HD
+http://89.45.201.132:2222/udp/224.0.0.3:121
+#EXTINF:-1,PRO Gold TV
+http://89.45.201.132:2222/udp/224.0.0.3:112
+#EXTINF:-1,PESCARI AMATORI
+http://89.45.201.132:2222/udp/224.0.0.3:709
+#EXTINF:-1,TNT
+http://89.45.201.132:2222/udp/224.0.0.3:1113
+#EXTINF:-1,DIVA
+http://89.45.201.132:2222/udp/224.0.0.3:610
+#EXTINF:-1,National TV
+http://89.45.201.132:2222/udp/224.0.0.3:114
+#EXTINF:-1,National 24 Plus
+http://89.45.201.132:2222/udp/224.0.0.3:115
+#EXTINF:-1,B1 TV
+http://89.45.201.132:2222/udp/224.0.0.3:110
+#EXTINF:-1,Happy Channel
+http://89.45.201.132:2222/udp/224.0.0.3:508
+#EXTINF:-1,Nasul TV
+http://89.45.201.132:2222/udp/224.0.0.3:117
+#EXTINF:-1,Digi 24 HD
+http://89.45.201.132:2222/udp/224.0.0.3:118
+#EXTINF:-1,TV Paprika
+http://89.45.201.132:2222/udp/224.0.0.3:125
+#EXTINF:-1,AXN
+http://89.45.201.132:2222/udp/224.0.0.3:517
+#EXTINF:-1,AXN White
+http://89.45.201.132:2222/udp/224.0.0.3:515
+#EXTINF:-1,AXN Black
+http://89.45.201.132:2222/udp/224.0.0.3:516
+#EXTINF:-1,TNT
+http://89.45.201.132:2222/udp/224.0.0.3:1113
+#EXTINF:-1,DIVA
+http://89.45.201.132:2222/udp/224.0.0.3:610
+#EXTINF:-1,Look Plus
+http://89.45.201.132:2222/udp/224.0.0.3:129
+#EXTINF:-1,TELEKOM 3 HD
+http://89.45.201.132:2222/udp/224.0.0.3:905
+#EXTINF:-1,TELEKOM 3
+http://89.45.201.132:2222/udp/224.0.0.3:211
+#EXTINF:-1,TELEKOM 4
+http://89.45.201.132:2222/udp/224.0.0.3:212
+#EXTINF:-1,Eurosport 1 HD
+http://89.45.201.132:2222/udp/224.0.0.3:1207
+#EXTINF:-1,Eurosport 2 HD
+http://89.45.201.132:2222/udp/224.0.0.3:1208
+#EXTINF:-1,Disney Channel
+http://89.45.201.132:2222/udp/224.0.0.3:150
+#EXTINF:-1,Nickelodeon
+http://89.45.201.132:2222/udp/224.0.0.3:153
+#EXTINF:-1,Duck TV
+http://89.45.201.132:2222/udp/224.0.0.3:157
+#EXTINF:-1,BOOMERANG
+http://89.45.201.132:2222/udp/224.0.0.3:154
+#EXTINF:-1,DISNEY JUNIOR HD
+http://89.45.201.132:2222/udp/224.0.0.3:607
+#EXTINF:-1,NatGeo Wild HD
+http://89.45.201.132:2222/udp/224.0.0.3:120
+#EXTINF:-1,NatGeo Wild
+http://89.45.201.132:2222/udp/224.0.0.3:138
+#EXTINF:-1,Animal Planet HD
+http://89.45.201.132:2222/udp/224.0.0.3:509
+#EXTINF:-1,Liviu
+http://89.45.201.132:2222/udp/224.0.0.3:510
+#EXTINF:-1,Tzanta
+http://89.45.201.132:2222/udp/224.0.0.3:514
+#EXTINF:-1,Mooz RO
+http://89.45.201.132:2222/udp/224.0.0.3:213
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fw2fTCA.jpg",RO | MOOZ Dance
+http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,ZU TV
+http://89.45.201.132:2222/udp/224.0.0.3:606
+#EXTINF:-1,Mooz HITS
+http://89.45.201.132:2222/udp/224.0.0.3:621
+#EXTINF:-1,Mooz HD
+http://89.45.201.132:2222/udp/224.0.0.3:622
+#EXTINF:-1 tvg-logo="https://i.imgur.com/9NS86Q5.png",RO | Tezaur TV
+http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/n0fNQkb.png",RO | UTV
+http://81.196.0.126:80/utvedge/utvlive/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ouVOW2q.png",RO | TVR 1 HD
+http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xyu1yKB.png",RO | TVR 1
+http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/ASFXz4f.png",RO | TVR 2
+http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pb2nnKU.png",RO | TVR 3
+http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZW1rg4.png",RO | BO CLASIC
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1 tvg-logo="https://i.imgur.com/JZW1rg4.png",RO | BO TV
+http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
