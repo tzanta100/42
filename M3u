@@ -1,118 +1,120 @@
 #EXTM3U
-http://62.210.136.69:25461/movie/44VJpxOrS9/5PH1DEYflA/355.mp4
-#EXTINF:-1,KANAL D HD
-http://89.45.201.132:2222/udp/224.0.0.3:123
-#EXTINF:-1,Kanal D
-http://89.45.201.132:2222/udp/224.0.0.3:113
-#EXTINF:-1,Prima TV
-http://89.45.201.132:2222/udp/224.0.0.3:116
-#EXTINF:-1,COMEDY CENTRAL
-http://89.45.201.132:2222/udp/224.0.0.3:512
-#EXTINF:-1,Antena 1
-http://89.45.201.132:2222/udp/224.0.0.3:104
-#EXTINF:-1,Antena Stars
-http://89.45.201.132:2222/udp/224.0.0.3:105
-#EXTINF:-1,Antena 3
-http://89.45.201.132:2222/udp/224.0.0.3:106
-#EXTINF:-1,Pro TV
-http://89.45.201.132:2222/udp/224.0.0.3:107
-#EXTINF:-1,Pro TV HD
-http://89.45.201.132:2222/udp/224.0.0.3:119
-#EXTINF:-1,Pro Cinema
-http://89.45.201.132:2222/udp/224.0.0.3:504
-#EXTINF:-1,PRO X HD
-http://89.45.201.132:2222/udp/224.0.0.3:122
-#EXTINF:-1,PRO X
-http://89.45.201.132:2222/udp/224.0.0.3:202
-#EXTINF:-1,PRO 2 HD
-http://89.45.201.132:2222/udp/224.0.0.3:121
-#EXTINF:-1,PRO Gold TV
-http://89.45.201.132:2222/udp/224.0.0.3:112
-#EXTINF:-1,PESCARI AMATORI
-http://89.45.201.132:2222/udp/224.0.0.3:709
-#EXTINF:-1,TNT
-http://89.45.201.132:2222/udp/224.0.0.3:1113
-#EXTINF:-1,DIVA
-http://89.45.201.132:2222/udp/224.0.0.3:610
-#EXTINF:-1,National TV
-http://89.45.201.132:2222/udp/224.0.0.3:114
-#EXTINF:-1,National 24 Plus
-http://89.45.201.132:2222/udp/224.0.0.3:115
-#EXTINF:-1,B1 TV
-http://89.45.201.132:2222/udp/224.0.0.3:110
-#EXTINF:-1,Happy Channel
-http://89.45.201.132:2222/udp/224.0.0.3:508
-#EXTINF:-1,Nasul TV
-http://89.45.201.132:2222/udp/224.0.0.3:117
-#EXTINF:-1,Digi 24 HD
-http://89.45.201.132:2222/udp/224.0.0.3:118
-#EXTINF:-1,TV Paprika
-http://89.45.201.132:2222/udp/224.0.0.3:125
-#EXTINF:-1,AXN
-http://89.45.201.132:2222/udp/224.0.0.3:517
-#EXTINF:-1,AXN White
-http://89.45.201.132:2222/udp/224.0.0.3:515
-#EXTINF:-1,AXN Black
-http://89.45.201.132:2222/udp/224.0.0.3:516
-#EXTINF:-1,TNT
-http://89.45.201.132:2222/udp/224.0.0.3:1113
-#EXTINF:-1,DIVA
-http://89.45.201.132:2222/udp/224.0.0.3:610
-#EXTINF:-1,Look Plus
-http://89.45.201.132:2222/udp/224.0.0.3:129
-#EXTINF:-1,TELEKOM 3 HD
-http://89.45.201.132:2222/udp/224.0.0.3:905
-#EXTINF:-1,TELEKOM 3
-http://89.45.201.132:2222/udp/224.0.0.3:211
-#EXTINF:-1,TELEKOM 4
-http://89.45.201.132:2222/udp/224.0.0.3:212
-#EXTINF:-1,Eurosport 1 HD
-http://89.45.201.132:2222/udp/224.0.0.3:1207
-#EXTINF:-1,Eurosport 2 HD
-http://89.45.201.132:2222/udp/224.0.0.3:1208
-#EXTINF:-1,Disney Channel
-http://89.45.201.132:2222/udp/224.0.0.3:150
-#EXTINF:-1,Nickelodeon
-http://89.45.201.132:2222/udp/224.0.0.3:153
-#EXTINF:-1,Duck TV
-http://89.45.201.132:2222/udp/224.0.0.3:157
-#EXTINF:-1,BOOMERANG
-http://89.45.201.132:2222/udp/224.0.0.3:154
-#EXTINF:-1,DISNEY JUNIOR HD
-http://89.45.201.132:2222/udp/224.0.0.3:607
-#EXTINF:-1,NatGeo Wild HD
-http://89.45.201.132:2222/udp/224.0.0.3:120
-#EXTINF:-1,NatGeo Wild
-http://89.45.201.132:2222/udp/224.0.0.3:138
-#EXTINF:-1,Animal Planet HD
+#EXTINF:-1, Film Cafe 
+https://free.valuestream.id/filmcafe.m3u8?l=3
+#EXTINF:-1, Boomerang 
+https://free.valuestream.id/boomerang.m3u8?l=3
+#EXTINF:-1, Comedy Central 
+https://free.valuestream.id/comedycentral.m3u8?l=3
+#EXTINF:-1, Axn
+https://free.valuestream.id/axn.m3u8
+#EXTINF:-1, Tv 1000 Hd
+https://free.valuestream.id/tv1000.m3u8?q=h
+#EXTINF:-1, TV 1000
+https://free.valuestream.id/tv1000.m3u8
+#EXTINF:-1, Tnt
+https://free.valuestream.id/tnt.m3u8
+#EXTINF:-1, Disney Channel 
+https://free.valuestream.id/disneychannel.m3u8
+#EXTINF:-1, Nickelodeon
+https://free.valuestream.id/nickelodeon.m3u8
+#EXTINF:-1, Axn Black 
+https://free.valuestream.id/axnblack.m3u8
+#EXTINF:-1, Axn White 
+https://free.valuestream.id/axnwhite.m3u8
+#EXTINF:-1, Epic drama
+https://free.valuestream.id/epicdrama.m3u8?l=3
+#EXTINF:-1, Axn Spin
+https://free.valuestream.id/axnspin.m3u8
+#EXTINF:-1, Kanal D
+https://livefeed.kanald.ro/iphone/live.m3u8
+#EXTINF:-1, România Tv
+https://free.valuestream.id/romaniatv.m3u8
+#EXTINF:-1, Realitatea Tv
+https://free.valuestream.id/realitateatv.m3u8
+#EXTINF:-1, TVR 1
+https://free.valuestream.id/tvr1.m3u8
+#EXTINF:-1, TVR 2
+https://free.valuestream.id/tvr2.m3u8
+#EXTINF:-1, liviu
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43726.m3u8
+#EXTINF:-1, tv liviu
+http://tvron.net/-s1.m3u8
+#EXTINF:-1, Pro tv Moldova 
+http://hls.protv.md/hls/protv.m3u8
+#EXTINF:-1, Super Tv
+http://iptv.supertv.ro:8000/playlist.m3u8
+#EXTINF:-1, Eurosport 1
+https://free.valuestream.id/eurosport.m3u8
+#EXTINF:-1, Eurosport 2
+https://free.valuestream.id/eurosport2.m3u8
+#EXTINF:-1, liviu
+http://1sn.ns1.name:18800/live/5Pa1bZUvQg/CWDbFUArny/43726.m3u8
+#EXTINF:-1, Look sport
+https://tvgo.orange.ro/channel/look-sport-2-hd
+#EXTINF:-1, History Channel 
+https://free.valuestream.id/historychannel.m3u8?q=h
+#EXTINF:-1, History Channel 
+https://free.valuestream.id/historychannel.m3u8?q=l
+#EXTINF:-1, National Geographic
+https://free.valuestream.id/nationalgeographic.m3u8
+#EXTINF:-1, National Geo
+https://free.valuestream.id/nationalgeographic.m3u8?q=h
+#EXTINF:-1, Discovery 
+https://free.valuestream.id/discovery.m3u8
+#EXTINF:-1, Tlc
+https://free.valuestream.id/tlc.m3u8
+#EXTINF:-1, Visat history 
+https://free.valuestream.id/viasathistory.m3u8
+#EXTINF:-1, Nat geo wild
+https://free.valuestream.id
+/nationalgeographicwild.m3u8
+#EXTINF:-1, BBC Earth
+https://free.valuestream.id/bbcearth.m3u8?q=h
+#EXTINF:-1,  Travel channel
+https://free.valuestream.id/travelchannel.m3u8
+#EXTINF:-1, Travel Channel 
+https://free.valuestream.id/travelchannel.m3u8?q=h
+#EXTINF:-1, TV Paprika 
+https://free.valuestream.id/tvpaprika.m3u8
+#EXTINF:-1, Visat Explorer 
+https://free.valuestream.id/viasatexplorer.m3u8
+#EXTINF:-1, Visat Explorer
+https://free.valuestream.id/viasatexplorer.m3u8?q=h
+#EXTINF:-1, Digi Animal World
+https://free.valuestream.id/digianimalworld.m3u8
+#EXTINF:-1, liviu
 http://89.45.201.132:2222/udp/224.0.0.3:509
-#EXTINF:-1,Liviu
-http://89.45.201.132:2222/udp/224.0.0.3:510
-#EXTINF:-1,Tzanta
-http://89.45.201.132:2222/udp/224.0.0.3:514
-#EXTINF:-1,Mooz RO
-http://89.45.201.132:2222/udp/224.0.0.3:213
-#EXTINF:-1 tvg-logo="https://i.imgur.com/fw2fTCA.jpg",RO | MOOZ Dance
-http://telekomtv-ro.akamaized.net/shls/LIVE$MoozDanceHD/14.m3u8/Level(545259)?start=LIVE&end=END
-#EXTINF:-1,ZU TV
-http://89.45.201.132:2222/udp/224.0.0.3:606
-#EXTINF:-1,Mooz HITS
-http://89.45.201.132:2222/udp/224.0.0.3:621
-#EXTINF:-1,Mooz HD
-http://89.45.201.132:2222/udp/224.0.0.3:622
-#EXTINF:-1 tvg-logo="https://i.imgur.com/9NS86Q5.png",RO | Tezaur TV
-http://86.125.216.66:1935/live/_definst_/tezaurtv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/n0fNQkb.png",RO | UTV
-http://81.196.0.126:80/utvedge/utvlive/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ouVOW2q.png",RO | TVR 1 HD
-http://89.136.209.26:1935/liveedge/TVRHD.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/xyu1yKB.png",RO | TVR 1
-http://89.136.209.26:1935/liveedge/TVR1.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/ASFXz4f.png",RO | TVR 2
-http://89.136.209.26:1935/liveedge/TVR2.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/pb2nnKU.png",RO | TVR 3
-http://89.136.209.26:1935/liveedge/TVR3.stream/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JZW1rg4.png",RO | BO CLASIC
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodClassic/6.m3u8/Level(1677721)?start=LIVE&end=END
-#EXTINF:-1 tvg-logo="https://i.imgur.com/JZW1rg4.png",RO | BO TV
-http://telekomtv-ro.akamaized.net/shls/LIVE$BollywoodTVFilm/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1, Cbs Reality 
+https://free.valuestream.id/cbsreality.m3u8?l=3
+#EXTINF:-1, liviu
+https://free.valuestream.id/eentertainment.m3u8
+#EXTINF:-1, Visat Nature 
+https://free.valuestream.id/viasatnature.m3u8
+#EXTINF:-1, Fishing and Hunting 
+https://free.valuestream.id/fishingandhunting.m3u8?l=3
+#EXTINF:-1, Davinci Learning 
+https://free.valuestream.id/davincilearning.m3u8
+#EXTINF:-1, Travel mix
+https://free.valuestream.id/travelmixchannel.m3u8
+#EXTINF:-1, Disney Junior 
+https://free.valuestream.id/disneyjunior.m3u8
+#EXTINF:-1, Disney junior 
+https://free.valuestream.id/disneyjunior.m3u8?q=h
+#EXTINF:-1, Disney Channel 
+https://free.valuestream.id/disneychannel.m3u8
+#EXTINF:-1, Cartoonnetwork
+https://free.valuestream.id/cartoonnetwork.m3u8?l=3
+#EXTINF:-1, Minimax
+https://free.valuestream.id/minimax.m3u8
+#EXTINF:-1, Nikelodeon 
+https://free.valuestream.id/nickelodeon.m3u8
+#EXTINF:-1, Megamax
+https://free.valuestream.id/megamax.m3u8
+#EXTINF:-1, kiss tv
+https://free.valuestream.id/kisstv.m3u8
+#EXTINF:-1, U tv
+http://81.196.0.126/utvedge/utvlivehls/utv.m3u8
+#EXTINF:-1, Hit music 
+https://free.valuestream.id/hitmusicchannel.m3u8
+#EXTINF:-1, liviu
+http://5.154.185.153/hls/live.m3u8
