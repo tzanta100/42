@@ -118,3 +118,23 @@ http://81.196.0.126/utvedge/utvlivehls/utv.m3u8
 https://free.valuestream.id/hitmusicchannel.m3u8
 #EXTINF:-1, liviu
 http://5.154.185.153/hls/live.m3u8
+#EXTINF:-1,Animal Planet
+http://94.177.136.29:7478/play/a02x
+#EXTINF:-1,CINETHRONIX
+http://94.177.136.29:7478/play/a037
+#EXTINF:-1,DTX
+http://94.177.136.29:7478/play/a03b
+#EXTINF:-1,Discovery Science
+http://94.177.136.29:7478/play/a039
+#EXTINF:-1,Fine Living
+http://94.177.136.29:7478/play/a03a
+#EXTINF:-1,ID Discovery
+http://94.177.136.29:7478/play/a02y
+#EXTINF:-1,Look2
+http://94.177.136.29:7478/play/a03f
+#EXTINF:-1,TVR Iasi
+http://94.177.136.29:7478/play/a03e
+#EXTINF:-1,Tele Moldova Plus
+http://94.177.136.29:7478/play/a03d
+#EXTINF:-1,TeleM Iasi
+http://94.177.136.29:7478/play/a03c
